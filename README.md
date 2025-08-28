@@ -1,4 +1,4 @@
-def find_max(numbers):
+def find_max(number):
     return max(numbers)
 
 if __name__ == "__main__":
